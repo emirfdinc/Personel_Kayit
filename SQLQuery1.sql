@@ -1,0 +1,1 @@
+insert into Table_person(perAd,perSoyad) values ('Emir','Dinc')
